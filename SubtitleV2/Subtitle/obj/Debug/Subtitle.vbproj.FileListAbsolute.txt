@@ -1,0 +1,11 @@
+C:\kit\SubtitleV2\Subtitle\bin\Debug\Subtitle_Converter_RO_utf8.exe
+C:\kit\SubtitleV2\Subtitle\bin\Debug\Subtitle_Converter_RO_utf8.pdb
+C:\kit\SubtitleV2\Subtitle\bin\Debug\Subtitle_Converter_RO_utf8.xml
+C:\kit\SubtitleV2\Subtitle\obj\Debug\Subtitle.vbproj.AssemblyReference.cache
+C:\kit\SubtitleV2\Subtitle\obj\Debug\Subtitle_Converter_RO_utf8.Form1.resources
+C:\kit\SubtitleV2\Subtitle\obj\Debug\Subtitle_Converter_RO_utf8.Resources.resources
+C:\kit\SubtitleV2\Subtitle\obj\Debug\Subtitle.vbproj.GenerateResource.cache
+C:\kit\SubtitleV2\Subtitle\obj\Debug\Subtitle.vbproj.CoreCompileInputs.cache
+C:\kit\SubtitleV2\Subtitle\obj\Debug\Subtitle_Converter_RO_utf8.exe
+C:\kit\SubtitleV2\Subtitle\obj\Debug\Subtitle_Converter_RO_utf8.xml
+C:\kit\SubtitleV2\Subtitle\obj\Debug\Subtitle_Converter_RO_utf8.pdb
